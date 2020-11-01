@@ -1,0 +1,13 @@
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\bin\Debug\netcoreapp3.1\Alice.exe
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\bin\Debug\netcoreapp3.1\Alice.deps.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\bin\Debug\netcoreapp3.1\Alice.runtimeconfig.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\bin\Debug\netcoreapp3.1\Alice.runtimeconfig.dev.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\bin\Debug\netcoreapp3.1\Alice.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\bin\Debug\netcoreapp3.1\Alice.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.AssemblyInfoInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.AssemblyInfo.cs
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.csproj.CoreCompileInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.genruntimeconfig.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Alice\obj\Debug\netcoreapp3.1\Alice.csprojAssemblyReference.cache

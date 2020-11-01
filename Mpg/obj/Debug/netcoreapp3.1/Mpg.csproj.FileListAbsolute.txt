@@ -1,0 +1,13 @@
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\bin\Debug\netcoreapp3.1\Mpg.exe
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\bin\Debug\netcoreapp3.1\Mpg.deps.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\bin\Debug\netcoreapp3.1\Mpg.runtimeconfig.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\bin\Debug\netcoreapp3.1\Mpg.runtimeconfig.dev.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\bin\Debug\netcoreapp3.1\Mpg.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\bin\Debug\netcoreapp3.1\Mpg.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.csprojAssemblyReference.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.AssemblyInfoInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.AssemblyInfo.cs
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.csproj.CoreCompileInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Mpg\obj\Debug\netcoreapp3.1\Mpg.genruntimeconfig.cache

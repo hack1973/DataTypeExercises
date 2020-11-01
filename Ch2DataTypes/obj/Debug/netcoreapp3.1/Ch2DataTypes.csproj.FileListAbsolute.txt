@@ -1,0 +1,13 @@
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\bin\Debug\netcoreapp3.1\Ch2DataTypes.exe
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\bin\Debug\netcoreapp3.1\Ch2DataTypes.deps.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\bin\Debug\netcoreapp3.1\Ch2DataTypes.runtimeconfig.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\bin\Debug\netcoreapp3.1\Ch2DataTypes.runtimeconfig.dev.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\bin\Debug\netcoreapp3.1\Ch2DataTypes.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\bin\Debug\netcoreapp3.1\Ch2DataTypes.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.csprojAssemblyReference.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.AssemblyInfoInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.AssemblyInfo.cs
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\Ch2DataTypes\obj\Debug\netcoreapp3.1\Ch2DataTypes.genruntimeconfig.cache

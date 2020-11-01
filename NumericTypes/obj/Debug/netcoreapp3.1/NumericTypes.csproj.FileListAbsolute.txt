@@ -1,0 +1,13 @@
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.exe
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.deps.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.dev.json
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csprojAssemblyReference.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfoInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfo.cs
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.dll
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.pdb
+C:\Users\hack1973\Documents\LC-101\csharp\Exercises\Ch2_DataTypes\Ch2DataTypes\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.genruntimeconfig.cache
